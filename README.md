@@ -13,3 +13,4 @@ An assortment of disperate CS concepts in python
 ### Oop & Classes
 
 * [Supercharge Your Classes With Python super()](https://realpython.com/python-super/)
+* [Inheritance and Composition: A Python OOP Guide](https://realpython.com/inheritance-composition-python/)
