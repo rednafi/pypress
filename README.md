@@ -6,7 +6,8 @@ An assortment of disperate CS concepts in python
 
 ![d](https://images.unsplash.com/photo-1459278558918-f94278c0f022?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1052&q=801047&q=80)
 
-*“Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.” - Richard P. Feynman*
+*“Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.”
+- Richard P. Feynman*
 </div>
 
 ## Topics
