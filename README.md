@@ -1,6 +1,8 @@
+
+
 <div align="center">
   
-# py-concepts
+# ♆ py-concepts
 
 An assortment of disperate CS concepts in python
 
@@ -9,16 +11,17 @@ An assortment of disperate CS concepts in python
 *“Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.” - Richard P. Feynman*
 </div>
 
-## Topics
-* [Decorators](https://realpython.com/primer-on-python-decorators/)
+## ♆ Topics
+### ♆ Decorators
+* [Primer on Python Decorators - Real Python](https://realpython.com/primer-on-python-decorators/)
+* [Decorator Basics - Stack Overflow](https://stackoverflow.com/a/1594484/464744)
+* [Writing Idiomatic Decorators with Metaclasses - Stack Overflow](https://stackoverflow.com/a/53176726/8963300)
+
+### ♆ Generators
 * [Generators](https://realpython.com/introduction-to-python-generators/)
 * [Request library](https://realpython.com/python-requests/)
 
-[Why use @classmethod decorator](https://stackoverflow.com/a/47769405/8963300)
-
-
-
-### Oop & Classes
+### ♆ Oop 
 * [Object-Oriented Programming (OOP) in Python 3](https://realpython.com/python3-object-oriented-programming/)
 * [Supercharge Your Classes With Python super()](https://realpython.com/python-super/)
 * [Inheritance and Composition: A Python OOP Guide](https://realpython.com/inheritance-composition-python/)
@@ -27,6 +30,6 @@ An assortment of disperate CS concepts in python
 
 
 
-### Quirks
+### ♆ Quirks
 * [The seemingly weird behavior of python's import](http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html) 
 
