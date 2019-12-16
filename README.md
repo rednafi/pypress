@@ -11,7 +11,7 @@ An assortment of disperate CS concepts in python
 *“Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.” - Richard P. Feynman*
 </div>
 
-## ♆ Topics
+## ♆ Python
 ### ♆ Decorators
 * [Primer on Python Decorators - Real Python](https://realpython.com/primer-on-python-decorators/)
 * [Decorator Basics - Stack Overflow](https://stackoverflow.com/a/1594484/464744)
@@ -31,5 +31,12 @@ An assortment of disperate CS concepts in python
 
 
 ### ♆ Quirks
+
 * [The seemingly weird behavior of python's import](http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html) 
+
+## ♆ Shell
+
+* [The Shell Introduction I Wish I Had](https://dev.to/maxwell_dev/the-shell-introduction-i-wish-i-had-551k)
+* [Bash from Scratch: Learn Enough Bash to Write Your Own Scripts](https://dev.to/ahmedmusallam/bash-from-scratch-learn-enough-bash-to-write-your-own-scripts-189f)
+
 
