@@ -2,7 +2,7 @@
 
 <div align="center">
   
-# ♆ py-concepts
+# ♆ 𝛑ython-shell-concepts
 
 An assortment of disperate CS concepts in python
 
