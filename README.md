@@ -12,6 +12,10 @@ An assortment of disperate CS concepts in python
 </div>
 
 ## ♆ Python
+### ♆ Data Structure
+* [Recursively modifying the elements in a deeply nested list - Stack Overflow](https://stackoverflow.com/questions/33155708/how-do-i-modify-each-value-of-a-deep-nested-list-recursively-and-return-another)
+* [Flatten a deeply nested list](https://thispointer.com/python-convert-list-of-lists-or-nested-list-to-flat-list/)
+
 ### ♆ Decorators
 * [Primer on Python Decorators - Real Python](https://realpython.com/primer-on-python-decorators/)
 * [Decorator Basics - Stack Overflow](https://stackoverflow.com/a/1594484/464744)
@@ -35,7 +39,6 @@ An assortment of disperate CS concepts in python
 
 ## ♆ Shell
 
-* [The Shell Introduction I Wish I Had](https://dev.to/maxwell_dev/the-shell-introduction-i-wish-i-had-551k)
 * [Bash from Scratch: Learn Enough Bash to Write Your Own Scripts](https://dev.to/ahmedmusallam/bash-from-scratch-learn-enough-bash-to-write-your-own-scripts-189f)
 * [Running shell commands from python - Stack Overflow](https://stackoverflow.com/questions/4256107/running-bash-commands-in-python/51950538#51950538)
 * [Don't use shell=True in subprocess.run - Stack Overflow](https://stackoverflow.com/questions/3172470/actual-meaning-of-shell-true-in-subprocess)
