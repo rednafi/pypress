@@ -15,6 +15,8 @@ An assortment of disperate CS concepts in python
 ### ♆ Data Structure
 * [Recursively modifying the elements in a deeply nested list - Stack Overflow](https://stackoverflow.com/questions/33155708/how-do-i-modify-each-value-of-a-deep-nested-list-recursively-and-return-another)
 * [Flatten a deeply nested list](https://thispointer.com/python-convert-list-of-lists-or-nested-list-to-flat-list/)
+* [Avoid nested for loops - Stack Overflow](https://stackoverflow.com/a/11174757/8963300)
+
 
 ### ♆ Decorators
 * [Primer on Python Decorators - Real Python](https://realpython.com/primer-on-python-decorators/)
