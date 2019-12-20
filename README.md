@@ -37,7 +37,7 @@ An assortment of disperate CS concepts in python
 * [Python Tricks - Dan Bader](https://www.goodreads.com/en/book/show/36555966)
 
 ### ♆ Talks
-* [Abstract Base Classes: A smart use of metaclasses](https://youtu.be/I9nXiJQnGsk)
+* [Abstract Base Classes: A smart use of metaclasses - Leonardo Giordani](https://youtu.be/I9nXiJQnGsk)
 ### ♆ Quirks
 
 * [The seemingly weird behavior of python's import](http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html) 
