@@ -33,7 +33,7 @@ An assortment of disperate CS concepts in python
 * [Supercharge Your Classes With Python super()](https://realpython.com/python-super/)
 * [Inheritance and Composition: A Python OOP Guide](https://realpython.com/inheritance-composition-python/)
 * [Why use @classmethod decorator](https://stackoverflow.com/a/47769405/8963300)
-
+* [How python @property decorator works](https://www.machinelearningplus.com/python/python-property/amp/)
 ###  ♆ Books
 * [Python Tricks - Dan Bader](https://www.goodreads.com/en/book/show/36555966)
 
