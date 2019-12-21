@@ -22,6 +22,7 @@ An assortment of disperate CS concepts in python
 * [Primer on Python Decorators - Real Python](https://realpython.com/primer-on-python-decorators/)
 * [Decorator Basics - Stack Overflow](https://stackoverflow.com/a/1594484/464744)
 * [Writing Idiomatic Decorators with Metaclasses - Stack Overflow](https://stackoverflow.com/a/53176726/8963300)
+* [Memoization with decorators](https://www.python-course.eu/python3_memoization.php)
 
 ### ♆ Generators
 * [Generators](https://realpython.com/introduction-to-python-generators/)
