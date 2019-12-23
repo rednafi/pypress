@@ -34,6 +34,10 @@ An assortment of disperate CS concepts in python
 * [Inheritance and Composition: A Python OOP Guide](https://realpython.com/inheritance-composition-python/)
 * [Why use @classmethod decorator](https://stackoverflow.com/a/47769405/8963300)
 * [How python @property decorator works](https://www.machinelearningplus.com/python/python-property/amp/)
+
+### Patterns
+* [Python Patterns - Brandon Rhodes](https://python-patterns.guide/)
+
 ###  ♆ Books
 * [Python Tricks - Dan Bader](https://www.goodreads.com/en/book/show/36555966)
 
