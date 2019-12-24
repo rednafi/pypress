@@ -10,18 +10,17 @@ An assortment of disperate CS concepts in python
 </div>
 
 ## Python
-### Data Structure
 
-**List:**
+### List
 * [Recursively modifying the elements in a deeply nested list - Stack Overflow](https://stackoverflow.com/questions/33155708/how-do-i-modify-each-value-of-a-deep-nested-list-recursively-and-return-another)
 * [Flatten a deeply nested list](https://thispointer.com/python-convert-list-of-lists-or-nested-list-to-flat-list/)
 
-**Dictionary:**
+## Dictionary
 * [Using `defaultdict` for missing key handling in dictionary](https://www.ludofischer.com/blog/python-collections-defaultdict/)
 
-**Functions:**
+### Functions
 
-**Loops:**
+### Loops
 * [Avoid nested for loops - Stack Overflow](https://stackoverflow.com/a/11174757/8963300)
 
 
