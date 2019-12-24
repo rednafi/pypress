@@ -2,7 +2,7 @@
 
 <div align="center">
   
-# ♆ 𝛑ython-shell-concepts
+# Python-shell-concepts
 
 An assortment of disperate CS concepts in python
 
@@ -11,24 +11,24 @@ An assortment of disperate CS concepts in python
 *“Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.” - Richard P. Feynman*
 </div>
 
-## ♆ Python
-### ♆ Data Structure
+## Python
+### Data Structure
 * [Recursively modifying the elements in a deeply nested list - Stack Overflow](https://stackoverflow.com/questions/33155708/how-do-i-modify-each-value-of-a-deep-nested-list-recursively-and-return-another)
 * [Flatten a deeply nested list](https://thispointer.com/python-convert-list-of-lists-or-nested-list-to-flat-list/)
 * [Avoid nested for loops - Stack Overflow](https://stackoverflow.com/a/11174757/8963300)
 
 
-### ♆ Decorators
+### Decorators
 * [Primer on Python Decorators - Real Python](https://realpython.com/primer-on-python-decorators/)
 * [Decorator Basics - Stack Overflow](https://stackoverflow.com/a/1594484/464744)
 * [Writing Idiomatic Decorators with Metaclasses - Stack Overflow](https://stackoverflow.com/a/53176726/8963300)
 * [Memoization with decorators](https://www.python-course.eu/python3_memoization.php)
 
-### ♆ Generators
+### Generators
 * [Generators](https://realpython.com/introduction-to-python-generators/)
 * [Request library](https://realpython.com/python-requests/)
 
-### ♆ Oop 
+### Oop 
 * [Object-Oriented Programming (OOP) in Python 3](https://realpython.com/python3-object-oriented-programming/)
 * [Supercharge Your Classes With Python super()](https://realpython.com/python-super/)
 * [Inheritance and Composition: A Python OOP Guide](https://realpython.com/inheritance-composition-python/)
@@ -38,17 +38,18 @@ An assortment of disperate CS concepts in python
 ### Patterns
 * [Python Patterns - Brandon Rhodes](https://python-patterns.guide/)
 
-###  ♆ Books
+### Books
 * [Python Tricks - Dan Bader](https://www.goodreads.com/en/book/show/36555966)
 
-### ♆ Talks
+### Talks
 * [Abstract Base Classes: A smart use of metaclasses - Leonardo Giordani](https://youtu.be/I9nXiJQnGsk)
-### ♆ Quirks
+
+### Quirks
 
 * [The seemingly weird behavior of python's import](http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html) 
 
-## ♆ Shell
-
+## Shell
+* [Bash Scripting Tutorial - Ryans Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/)
 * [Bash from Scratch: Learn Enough Bash to Write Your Own Scripts](https://dev.to/ahmedmusallam/bash-from-scratch-learn-enough-bash-to-write-your-own-scripts-189f)
 * [Running shell commands from python - Stack Overflow](https://stackoverflow.com/questions/4256107/running-bash-commands-in-python/51950538#51950538)
 * [Don't use shell=True in subprocess.run - Stack Overflow](https://stackoverflow.com/questions/3172470/actual-meaning-of-shell-true-in-subprocess)
