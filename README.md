@@ -49,6 +49,7 @@ An assortment of disperate CS concepts in python
 
 ### Talks
 * [Abstract Base Classes: A smart use of metaclasses - Leonardo Giordani](https://youtu.be/I9nXiJQnGsk)
+* [Dataclasses: The code generator to end all code generators - Raymond Hettinger](https://www.youtube.com/watch?v=T-TwcmT6Rcw&list=PLH-7dHUt8SGoTpklX4rhK50r5ikA47mh8&index=2)
 
 ### Quirks
 
