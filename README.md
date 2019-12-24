@@ -40,7 +40,7 @@ An assortment of disperate CS concepts in python
 * [Inheritance and Composition: A Python OOP Guide](https://realpython.com/inheritance-composition-python/)
 * [Why use @classmethod decorator](https://stackoverflow.com/a/47769405/8963300)
 * [How python @property decorator works](https://www.machinelearningplus.com/python/python-property/amp/)
-* [Discussions on Data Class - Stack Overflow](https://stackoverflow.com/questions/47955263/what-are-data-classes-and-how-are-they-different-from-common-classes
+* [Discussions on Dataclass - Stack Overflow](https://stackoverflow.com/questions/47955263/what-are-data-classes-and-how-are-they-different-from-common-classes)
 
 ### Patterns
 * [Python Patterns - Brandon Rhodes](https://python-patterns.guide/)
