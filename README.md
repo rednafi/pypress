@@ -15,22 +15,22 @@ An assortment of disperate CS concepts in python
 * [Recursively modifying the elements in a deeply nested list - Stack Overflow](https://stackoverflow.com/questions/33155708/how-do-i-modify-each-value-of-a-deep-nested-list-recursively-and-return-another)
 * [Flatten a deeply nested list](https://thispointer.com/python-convert-list-of-lists-or-nested-list-to-flat-list/)
 
-## Dictionary
+### Dictionary
 * [Using `defaultdict` for missing key handling in dictionary](https://www.ludofischer.com/blog/python-collections-defaultdict/)
 
-### Functions
+### Function
 
-### Loops
+### Loop
 * [Avoid nested for loops - Stack Overflow](https://stackoverflow.com/a/11174757/8963300)
 
 
-### Decorators
+### Decorator
 * [Primer on Python Decorators - Real Python](https://realpython.com/primer-on-python-decorators/)
 * [Decorator Basics - Stack Overflow](https://stackoverflow.com/a/1594484/464744)
 * [Writing Idiomatic Decorators with Metaclasses - Stack Overflow](https://stackoverflow.com/a/53176726/8963300)
 * [Memoization with decorators](https://www.python-course.eu/python3_memoization.php)
 
-### Generators
+### Generator
 * [Generators](https://realpython.com/introduction-to-python-generators/)
 * [Request library](https://realpython.com/python-requests/)
 
