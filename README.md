@@ -58,6 +58,7 @@ An assortment of disperate CS concepts in python
 * [Dataclasses: The code generator to end all code generators - Raymond Hettinger](https://www.youtube.com/watch?v=T-TwcmT6Rcw&list=PLH-7dHUt8SGoTpklX4rhK50r5ikA47mh8&index=2)
 * [Life Is Better Painted Black, or: How to Stop Worrying and Embrace Auto-Formatting - Łukasz Langa](https://www.youtube.com/watch?v=esZLCuWs_2Y)
 * [Encapsulation with descriptors - Luciano Ramalho](https://www.youtube.com/watch?v=5GG4jBxj4Ys)
+* [Facts and Myths About Python Names and Values - Ned Batchelder](https://youtu.be/_AEJHKGk9ns)
 
 ### Quirks
 
