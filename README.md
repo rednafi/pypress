@@ -54,6 +54,7 @@ An assortment of disperate CS concepts in python
 * [Grokking Algorithms - Aditya Bhargava](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio)
 
 ### Talks
+* [How documentation works - Daniele Procida](https://youtu.be/azf6yzuJt54)
 * [Abstract Base Classes: A smart use of metaclasses - Leonardo Giordani](https://youtu.be/I9nXiJQnGsk)
 * [Dataclasses: The code generator to end all code generators - Raymond Hettinger](https://www.youtube.com/watch?v=T-TwcmT6Rcw&list=PLH-7dHUt8SGoTpklX4rhK50r5ikA47mh8&index=2)
 * [Life Is Better Painted Black, or: How to Stop Worrying and Embrace Auto-Formatting - Łukasz Langa](https://www.youtube.com/watch?v=esZLCuWs_2Y)
