@@ -61,6 +61,7 @@ An assortment of disperate CS concepts in python
 * [Encapsulation with descriptors - Luciano Ramalho](https://www.youtube.com/watch?v=5GG4jBxj4Ys)
 * [Facts and Myths About Python Names and Values - Ned Batchelder](https://youtu.be/_AEJHKGk9ns)
 * [The Dictionary Even Mightier - Brandon Rhodes](https://youtu.be/66P5FMkWoVU)
+* [Practical Decorators - Reuven M. Lerner](https://youtu.be/MjHpMCIvwsY)
 
 ### Quirks
 
