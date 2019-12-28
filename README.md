@@ -60,6 +60,7 @@ An assortment of disperate CS concepts in python
 * [Life Is Better Painted Black, or: How to Stop Worrying and Embrace Auto-Formatting - Łukasz Langa](https://www.youtube.com/watch?v=esZLCuWs_2Y)
 * [Encapsulation with descriptors - Luciano Ramalho](https://www.youtube.com/watch?v=5GG4jBxj4Ys)
 * [Facts and Myths About Python Names and Values - Ned Batchelder](https://youtu.be/_AEJHKGk9ns)
+* [The Dictionary Even Mightier - Brandon Rhodes](https://youtu.be/66P5FMkWoVU)
 
 ### Quirks
 
