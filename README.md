@@ -64,6 +64,7 @@ An assortment of disperate CS concepts in python
 * [The Dictionary Even Mightier - Brandon Rhodes](https://youtu.be/66P5FMkWoVU)
 * [Practical Decorators - Reuven M. Lerner](https://youtu.be/MjHpMCIvwsY)
 * [The Black Magic of Python Wheels - Elana Hashman](https://youtu.be/02aAZ8u3wEQ)
+* [Things I Wish They Told Me About The Multiprocessing Module in Python 3 - Pamela McANulty](https://youtu.be/5dMOYf0b_20)
 ### Quirks
 
 * [The seemingly weird behavior of python's import](http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html) 
