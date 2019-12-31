@@ -63,7 +63,7 @@ An assortment of disperate CS concepts in python
 * [Facts and Myths About Python Names and Values - Ned Batchelder](https://youtu.be/_AEJHKGk9ns)
 * [The Dictionary Even Mightier - Brandon Rhodes](https://youtu.be/66P5FMkWoVU)
 * [Practical Decorators - Reuven M. Lerner](https://youtu.be/MjHpMCIvwsY)
-
+* [The Black Magic of Python Wheels - Elana Hashman](https://youtu.be/02aAZ8u3wEQ)
 ### Quirks
 
 * [The seemingly weird behavior of python's import](http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html) 
