@@ -67,6 +67,7 @@ An assortment of disperate CS concepts in python
 * [Things I Wish They Told Me About The Multiprocessing Module in Python 3 - Pamela McANulty](https://youtu.be/5dMOYf0b_20)
 * [Piecing it Together A beginner's guide to application configuration  - Mary Nagle](https://youtu.be/OaT0EN-02iY)
 * [Pythons in A Container - Lessons Learned Dockerizing Python Micro-Services - Dorian Pula](https://youtu.be/qT0dQ8S7jOg)
+* [Asynchronous Python for the Complete Beginner - Miguel Grinberg](https://youtu.be/iG6fr81xHKA)
 ### Quirks
 
 * [The seemingly weird behavior of python's import](http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html) 
