@@ -69,7 +69,7 @@ An assortment of disperate CS concepts in python
 ### Quirks
 
 * [The seemingly weird behavior of python's import](http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html) 
-
+* [Traps for the Unwary in Python’s Import System - Nick Coghlan's Python Notes](http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html#the-double-import-trap)
 ## Shell
 * [Bash Scripting Tutorial - Ryans Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/)
 * [Bash from Scratch: Learn Enough Bash to Write Your Own Scripts](https://dev.to/ahmedmusallam/bash-from-scratch-learn-enough-bash-to-write-your-own-scripts-189f)
