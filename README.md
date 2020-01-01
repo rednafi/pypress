@@ -65,6 +65,7 @@ An assortment of disperate CS concepts in python
 * [Practical Decorators - Reuven M. Lerner](https://youtu.be/MjHpMCIvwsY)
 * [The Black Magic of Python Wheels - Elana Hashman](https://youtu.be/02aAZ8u3wEQ)
 * [Things I Wish They Told Me About The Multiprocessing Module in Python 3 - Pamela McANulty](https://youtu.be/5dMOYf0b_20)
+* [Piecing it Together A beginner's guide to application configuration  - Mary Nagle](https://youtu.be/OaT0EN-02iY)
 ### Quirks
 
 * [The seemingly weird behavior of python's import](http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html) 
