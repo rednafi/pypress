@@ -1,6 +1,6 @@
 <div align="center">
   
-# Python-shell-concepts
+# Python Odyssey
 
 An assortment of disperate CS concepts in python
 
