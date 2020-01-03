@@ -47,6 +47,8 @@ An assortment of disperate CS concepts in python
 * [MySQL Connection with Pooling in Python](https://programmer.help/blogs/database-connection-pool-dbutils-use.html?fbclid=IwAR3JWCj_E5LnFMWNuefRfCpnRQ2ceMd95sEZrnCK29XM8md8H5yV3kk_cYc)
 * [Reusable Class for MySql Connection with Pooling in Python](https://gist.github.com/rednafi/640886a50499eea05ffe38d99a79b927)
 
+### Async
+* [Async IO in Python: A Complete Walkthrough - Real Python](https://realpython.com/async-io-python/)
 ### Patterns
 * [Python Patterns - Brandon Rhodes](https://python-patterns.guide/)
 
