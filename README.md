@@ -35,6 +35,9 @@ An assortment of disperate CS concepts in python
 * [Generators](https://realpython.com/introduction-to-python-generators/)
 * [Request library](https://realpython.com/python-requests/)
 
+### Context Managers
+* [With Statement & Context Managers - Jeff Knupp](https://jeffknupp.com/blog/2016/03/07/improve-your-python-the-with-statement-and-context-managers/)
+
 ### Oop 
 * [Python Classes and Object Oriented Programming - Jeff Knupp](https://www.google.com/amp/s/jeffknupp.com/blog/2017/03/27/improve-your-python-python-classes-and-object-oriented-programming//amp/)
 * [Object-Oriented Programming (OOP) in Python 3](https://realpython.com/python3-object-oriented-programming/)
