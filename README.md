@@ -35,6 +35,7 @@ An assortment of disperate CS concepts in python
 * [Request library](https://realpython.com/python-requests/)
 
 ### Oop 
+* [Python Classes and Object Oriented Programming - Jeff Knupp](https://www.google.com/amp/s/jeffknupp.com/blog/2017/03/27/improve-your-python-python-classes-and-object-oriented-programming//amp/)
 * [Object-Oriented Programming (OOP) in Python 3](https://realpython.com/python3-object-oriented-programming/)
 * [Supercharge Your Classes With Python super()](https://realpython.com/python-super/)
 * [Inheritance and Composition: A Python OOP Guide](https://realpython.com/inheritance-composition-python/)
