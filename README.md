@@ -19,6 +19,7 @@ An assortment of disperate CS concepts in python
 * [Using `defaultdict` for missing key handling in dictionary](https://www.ludofischer.com/blog/python-collections-defaultdict/)
 
 ### Function
+* [Write Better Python Functions - Jeff Knupp](https://jeffknupp.com/blog/2018/10/11/write-better-python-functions/)
 * [Discussion on closure - Stack Overflow](https://stackoverflow.com/questions/4020419/why-arent-python-nested-functions-called-closures/44845692)
 ### Loop
 * [Avoid nested for loops - Stack Overflow](https://stackoverflow.com/a/11174757/8963300)
