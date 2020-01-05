@@ -82,6 +82,7 @@ An assortment of disperate CS concepts in python
 * [Asynchronous Python for the Complete Beginner - Miguel Grinberg](https://youtu.be/iG6fr81xHKA)
 * [Python Testing 101 with Pytest - Matt Layman](https://youtu.be/etosV2IWBF0)
 * [Python testing 201 with Pytest - Matt Layman](https://youtu.be/fv259R38gqc)
+* [Getting started with testing using Pytest and Mock -  Gabe Hollombe](https://youtu.be/k99HSHQDsi4)
 ### Quirks
 * [The seemingly weird behavior of python's import](http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html) 
 * [Traps for the Unwary in Python’s Import System - Nick Coghlan's Python Notes](http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html#the-double-import-trap)
