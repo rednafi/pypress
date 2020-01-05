@@ -54,8 +54,12 @@ An assortment of disperate CS concepts in python
 
 ### Async
 * [Async IO in Python: A Complete Walkthrough - Real Python](https://realpython.com/async-io-python/)
+
 ### Patterns
 * [Python Patterns - Brandon Rhodes](https://python-patterns.guide/)
+
+### Internals
+* [Understanding Python's Execution Model - Jeff Knupp](https://jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/)
 
 ### Books
 * [Python Tricks - Dan Bader](https://www.goodreads.com/en/book/show/36555966)
@@ -75,10 +79,11 @@ An assortment of disperate CS concepts in python
 * [Piecing it Together A beginner's guide to application configuration  - Mary Nagle](https://youtu.be/OaT0EN-02iY)
 * [Pythons in A Container - Lessons Learned Dockerizing Python Micro-Services - Dorian Pula](https://youtu.be/qT0dQ8S7jOg)
 * [Asynchronous Python for the Complete Beginner - Miguel Grinberg](https://youtu.be/iG6fr81xHKA)
-### Quirks
 
+### Quirks
 * [The seemingly weird behavior of python's import](http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html) 
 * [Traps for the Unwary in Python’s Import System - Nick Coghlan's Python Notes](http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html#the-double-import-trap)
+
 ## Shell
 * [Bash Scripting Tutorial - Ryans Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/)
 * [Bash from Scratch: Learn Enough Bash to Write Your Own Scripts](https://dev.to/ahmedmusallam/bash-from-scratch-learn-enough-bash-to-write-your-own-scripts-189f)
