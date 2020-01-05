@@ -16,6 +16,7 @@ An assortment of disperate CS concepts in python
 * [Flatten a deeply nested list](https://thispointer.com/python-convert-list-of-lists-or-nested-list-to-flat-list/)
 
 ### Dictionary
+* [Python Dictionaries - Jeff Knupp](https://jeffknupp.com/blog/2015/08/30/python-dictionaries/)
 * [Using `defaultdict` for missing key handling in dictionary](https://www.ludofischer.com/blog/python-collections-defaultdict/)
 
 ### Function
