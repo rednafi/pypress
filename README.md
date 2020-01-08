@@ -117,7 +117,7 @@ An assortment of disperate CS concepts in python
 * [Python Testing 101 with Pytest - Matt Layman](https://youtu.be/etosV2IWBF0)
 * [Python testing 201 with Pytest - Matt Layman](https://youtu.be/fv259R38gqc)
 * [Getting started with testing using Pytest and Mock -  Gabe Hollombe](https://youtu.be/k99HSHQDsi4)
-
+* [All Your Ducks In A Row: Data Structures in the Std Lib and Beyond - Brandon Rhodes](https://www.youtube.com/watch?v=7eeEf_rAJds&feature=emb_rel_err)
 ##  13. <a name='Quirks'></a>Quirks
 * [The seemingly weird behavior of python's import](http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html)
 * [Traps for the Unwary in Python’s Import System - Nick Coghlan's Python Notes](http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html#the-double-import-trap)
