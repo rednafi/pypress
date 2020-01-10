@@ -1,7 +1,5 @@
 # Talks
 
-
-
 ## Talks
 
 * [How documentation works - Daniele Procida](https://youtu.be/azf6yzuJt54)
