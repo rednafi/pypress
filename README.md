@@ -82,6 +82,7 @@ An assortment of disperate CS concepts in python
 * [How python @property decorator works](https://www.machinelearningplus.com/python/python-property/amp/)
 * [Discussions on Dataclass - Stack Overflow](https://stackoverflow.com/questions/47955263/what-are-data-classes-and-how-are-they-different-from-common-classes)
 * [The definitive guide on how to use static, class or abstract methods in Python - Julien Danjou](https://julien.danjou.info/guide-python-static-class-abstract-methods/)
+* [Python Descriptors: An Introduction -Real Python](https://realpython.com/python-descriptors/)
 
 ##  7. <a name='Databases'></a>Databases
 * [MySQL Connection with Pooling in Python](https://programmer.help/blogs/database-connection-pool-dbutils-use.html?fbclid=IwAR3JWCj_E5LnFMWNuefRfCpnRQ2ceMd95sEZrnCK29XM8md8H5yV3kk_cYc)
