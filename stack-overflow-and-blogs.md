@@ -37,6 +37,9 @@
 * [Generators](https://realpython.com/introduction-to-python-generators/)
 * [Request library](https://realpython.com/python-requests/)
 
+## Web
+* [Exploring HTTPS With Python - Real Python](https://realpython.com/python-https/)
+
 ## Misc
 
 ### Context Managers
