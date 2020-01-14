@@ -12,8 +12,8 @@
  <a href ="https://app.gitbook.com/@rednafi/s/py-odyssey/">Read the docs here.</a>
 </p>
 
-
-<table class="tg" align="center">
+<p align='center'>
+<table class="tg">
   <tr>
     <th class="tg-e7aw">Topics</th>
     <th class="tg-7q3x">Contents</th>
@@ -39,3 +39,4 @@
     <td class="tg-gx32"></td>
   </tr>
 </table>
+</p>
