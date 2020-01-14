@@ -8,11 +8,7 @@
 
 <p align='center'>“Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.” - Richard P. Feynman</p>
 
-<p align='center'>
- <a href ="https://app.gitbook.com/@rednafi/s/py-odyssey/">Read the docs here.</a>
-</p>
-
-<p align='center'>
+<div align="center">
 <table class="tg">
   <tr>
     <th class="tg-e7aw">Topics</th>
@@ -39,4 +35,4 @@
     <td class="tg-gx32"></td>
   </tr>
 </table>
-</p>
+</div>
