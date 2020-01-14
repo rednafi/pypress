@@ -1,7 +1,5 @@
 # Talks
 
-## Talks
-
 * [How documentation works - Daniele Procida](https://youtu.be/azf6yzuJt54)
 
 * [Abstract Base Classes: A smart use of metaclasses - Leonardo Giordani](https://youtu.be/I9nXiJQnGsk)
