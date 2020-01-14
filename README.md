@@ -13,7 +13,7 @@
 </p>
 
 
-<table class="tg">
+<table align= "center" class="tg">
   <tr>
     <th class="tg-e7aw">Topics</th>
     <th class="tg-7q3x">Contents</th>
