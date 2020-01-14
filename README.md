@@ -16,31 +16,31 @@
         - List
         - Dictionary
 
-    - [Control Structure](/docs/blogs-and-stack-overflow.md/#data-structure/#control-structure)
+    - [Control Structure](/docs/blogs-and-stack-overflow.md/#control-structure)
         - Loop
 
-    - [Function](/docs/blogs-and-stack-overflow.md/#data-structure/#function)
+    - [Function](/docs/blogs-and-stack-overflow.md/#function)
 
-    - [Decorators](/docs/blogs-and-stack-overflow.md/#data-structure/#decorators)
+    - [Decorators](/docs/blogs-and-stack-overflow.md/#decorators)
 
-    - [Iterators](/docs/blogs-and-stack-overflow.md/#data-structure/#iterators)
+    - [Iterators](/docs/blogs-and-stack-overflow.md/#iterators)
         - Generator
 
-    - [Oop](/docs/blogs-and-stack-overflow.md/#data-structure/#oop)
+    - [Oop](/docs/blogs-and-stack-overflow.md/#oop)
 
-    - [Databases](/docs/blogs-and-stack-overflow.md/#data-structure/#databases)
+    - [Databases](/docs/blogs-and-stack-overflow.md/#databases)
 
-    - [Web](/docs/blogs-and-stack-overflow.md/#data-structure/#web)
+    - [Web](/docs/blogs-and-stack-overflow.md/#web)
 
-    - [Async](/docs/blogs-and-stack-overflow.md/#data-structure/#async)
+    - [Async](/docs/blogs-and-stack-overflow.md/#async)
 
-    - [Patterns](/docs/blogs-and-stack-overflow.md/#data-structure/#patterns)
+    - [Patterns](/docs/blogs-and-stack-overflow.md/#patterns)
 
-    - [Internals](/docs/blogs-and-stack-overflow.md/#data-structure/#internals)
+    - [Internals](/docs/blogs-and-stack-overflow.md/#internals)
 
-    - [Misc](/docs/blogs-and-stack-overflow.md/#data-structure/#misc)
+    - [Misc](/docs/blogs-and-stack-overflow.md/#misc)
 
-    - [Quirks](/docs/blogs-and-stack-overflow.md/#data-structure/#quirks)
+    - [Quirks](/docs/blogs-and-stack-overflow.md/#quirks)
 
 * [Books](/docs/books.md)
 * [Talks](/docs/talks.md)
