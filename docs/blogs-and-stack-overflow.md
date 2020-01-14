@@ -1,4 +1,4 @@
-# Stack Overflow & Blogs
+# Blogs & Stack Overflow
 
 ##  Data Structure
 
@@ -40,11 +40,6 @@
 ## Web
 * [Exploring HTTPS With Python - Real Python](https://realpython.com/python-https/)
 
-## Misc
-
-### Context Managers
-
-* [With Statement & Context Managers - Jeff Knupp](https://jeffknupp.com/blog/2016/03/07/improve-your-python-the-with-statement-and-context-managers/)
 
 ## Oop
 
@@ -76,9 +71,13 @@
 * [Understanding Python's Execution Model - Jeff Knupp](https://jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/)
 
 
+## Misc
+
+### Context Managers
+
+* [With Statement & Context Managers - Jeff Knupp](https://jeffknupp.com/blog/2016/03/07/improve-your-python-the-with-statement-and-context-managers/)
 
 ## **Quirks**
 
 * [The seemingly weird behavior of python's import](http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html)
 * [Traps for the Unwary in Python’s Import System - Nick Coghlan's Python Notes](http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html#the-double-import-trap)
-
