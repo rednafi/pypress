@@ -9,38 +9,38 @@
 
 <h2 align="center"> Contents </h2>
 
-* [Blogs & Stack Overflow](/blob/master/docs/blogs-and-stack-overflow.md)
+* [Blogs & Stack Overflow](/docs/blogs-and-stack-overflow.md)
 
-    - [Data Structure](/blob/master/docs/blogs-and-stack-overflow.md/#data-structure)
+    - [Data Structure](/docs/blogs-and-stack-overflow.md/#data-structure)
 
         - List
         - Dictionary
 
-    - [Control Structure](/blob/master/docs/blogs-and-stack-overflow.md/#data-structure/#control-structure)
+    - [Control Structure](/docs/blogs-and-stack-overflow.md/#data-structure/#control-structure)
         - Loop
 
-    - [Function](/blob/master/docs/blogs-and-stack-overflow.md/#data-structure/#function)
+    - [Function](/docs/blogs-and-stack-overflow.md/#data-structure/#function)
 
-    - [Decorators](/blob/master/docs/blogs-and-stack-overflow.md/#data-structure/#decorators)
+    - [Decorators](/docs/blogs-and-stack-overflow.md/#data-structure/#decorators)
 
-    - [Iterators](/blob/master/docs/blogs-and-stack-overflow.md/#data-structure/#iterators)
+    - [Iterators](/docs/blogs-and-stack-overflow.md/#data-structure/#iterators)
         - Generator
 
-    - [Oop](/blob/master/docs/blogs-and-stack-overflow.md/#data-structure/#oop)
+    - [Oop](/docs/blogs-and-stack-overflow.md/#data-structure/#oop)
 
-    - [Databases](/blob/master/docs/blogs-and-stack-overflow.md/#data-structure/#databases)
+    - [Databases](/docs/blogs-and-stack-overflow.md/#data-structure/#databases)
 
-    - [Web](/blob/master/docs/blogs-and-stack-overflow.md/#data-structure/#web)
+    - [Web](/docs/blogs-and-stack-overflow.md/#data-structure/#web)
 
-    - [Async](/blob/master/docs/blogs-and-stack-overflow.md/#data-structure/#async)
+    - [Async](/docs/blogs-and-stack-overflow.md/#data-structure/#async)
 
-    - [Patterns](/blob/master/docs/blogs-and-stack-overflow.md/#data-structure/#patterns)
+    - [Patterns](/docs/blogs-and-stack-overflow.md/#data-structure/#patterns)
 
-    - [Internals](/blob/master/docs/blogs-and-stack-overflow.md/#data-structure/#internals)
+    - [Internals](/docs/blogs-and-stack-overflow.md/#data-structure/#internals)
 
-    - [Misc](/blob/master/docs/blogs-and-stack-overflow.md/#data-structure/#misc)
+    - [Misc](/docs/blogs-and-stack-overflow.md/#data-structure/#misc)
 
-    - [Quirks](/blob/master/docs/blogs-and-stack-overflow.md/#data-structure/#quirks)
+    - [Quirks](/docs/blogs-and-stack-overflow.md/#data-structure/#quirks)
 
-* [Books](/blob/master/docs/books.md)
-* [Talks](/blob/master/docs/talks.md)
+* [Books](/docs/books.md)
+* [Talks](/docs/talks.md)
