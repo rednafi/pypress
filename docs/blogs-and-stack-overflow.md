@@ -31,7 +31,8 @@
 * [Decorator Basics - Stack Overflow](https://stackoverflow.com/a/1594484/464744)
 * [Writing Idiomatic Decorators with Metaclasses - Stack Overflow](https://stackoverflow.com/a/53176726/8963300)
 * [Memoization with decorators](https://www.python-course.eu/python3_memoization.php)
-* [The ultimate guide to python decorators -Miguel Grinberg](https://blog.miguelgrinberg.com/post/the-ultimate-guide-to-python-decorators-part-i-function-registration)
+* [The ultimate guide to python decorators Part-1 -Miguel Grinberg](https://blog.miguelgrinberg.com/post/the-ultimate-guide-to-python-decorators-part-i-function-registration)
+* [The ultimate guide to python decorators Part-2 -Miguel Grinberg](https://blog.miguelgrinberg.com/post/the-ultimate-guide-to-python-decorators-part-ii-altering-function-behavior)
 
 
 ## Iterators
