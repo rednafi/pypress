@@ -56,6 +56,9 @@
 * [Python Descriptors: An Introduction -Real Python](https://realpython.com/python-descriptors/)
 * [Operator and Function Overloading in Custom Python Classes - Real Python](https://realpython.com/operator-function-overloading/)
 
+## FP
+* [Monads in Python ](https://nikgrozev.com/2013/12/10/monads-in-15-minutes/)
+
 ## Databases
 
 * [MySQL Connection with Pooling in Python](https://programmer.help/blogs/database-connection-pool-dbutils-use.html?fbclid=IwAR3JWCj_E5LnFMWNuefRfCpnRQ2ceMd95sEZrnCK29XM8md8H5yV3kk_cYc)
