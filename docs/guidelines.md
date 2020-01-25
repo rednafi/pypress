@@ -1,8 +1,10 @@
-## Code format
+## Code Formatting
 * Use black with default settings (max character length 88 lines)
 * Use flake8 to catch linting errors
 
-## Do not write bare try-except block
+## Exception Handling
+
+**Do not write bare try-except block**
 
 Don't write this:
 
