@@ -77,3 +77,4 @@ Read more on divisional structure [here.](https://exploreflask.com/en/latest/blu
 
 ## Reference
 1. [The Most Diabolical Python Antipattern - Real Python](https://realpython.com/the-most-diabolical-python-antipattern/)
+2. [Flask Project Structure - Explore Flask](https://exploreflask.com/en/latest/blueprints.html#divisional)
