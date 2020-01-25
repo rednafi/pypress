@@ -46,6 +46,33 @@ except Exception as ex:
     logging.exception('Caught an error')
 ```
 
+## Project Structure
+
+Try to follow **divisional structure** while designing your microservice APIs.
+Here's an example of divisional structure in a Flask project.
+
+```python
+
+yourapp/
+    __init__.py
+    admin/
+        __init__.py
+        views.py
+        static/
+        templates/
+    home/
+        __init__.py
+        views.py
+        static/
+        templates/
+    control_panel/
+        __init__.py
+        views.py
+        static/
+        templates/
+    models.py
+```
+Read more on divisional structure [here.](https://exploreflask.com/en/latest/blueprints.html#divisional)
 
 
 ## Reference
