@@ -76,7 +76,7 @@ Read more on divisional structure [here.](https://exploreflask.com/en/latest/blu
 
 ## Being Pythonic
 * [Pythonic Code Review](https://access.redhat.com/blogs/766093/posts/2802001)
-
+* [Writing Great Code](https://www.oreilly.com/library/view/the-hitchhikers-guide/9781491933213/ch04.html)
 
 ## Reference
 1. [The Most Diabolical Python Antipattern - Real Python](https://realpython.com/the-most-diabolical-python-antipattern/)
