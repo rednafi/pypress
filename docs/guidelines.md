@@ -1,7 +1,20 @@
+<div align="center">
+<h1> Python Style Guide for Sanity </h1>
+<p> <b> Simplifield Coding Directives for Lower Cognitive Overhead </b> </p>
+
+</div>
+
+<div align="center">
+<h3><u>Philosophy</u> </h3>
+<p> Simple but not simpler </p>
+<p>PEP8 but less obsessive</p>
+<p>Automation brings salvation </p>
+
+</div>
+
 ## Contents
 
 * [Contents](#contents)
-* [Philosophy](#philosophy)
 * [Auto-formatters](#auto-formatters)
 * [Functions](#functions)
 * [Docstring](#docstring)
@@ -16,10 +29,6 @@
 * [Being Pythonic](#being-pythonic)
 * [Reference](#reference)
 
-## Philosophy
-* PEP8 but less obsessive
-* Simple but opinionated
-*
 
 ## Auto-formatters
 * Use [black](https://github.com/psf/black/) with default settings (max character length 88 lines).
@@ -93,21 +102,36 @@
 ## Docstring
 * Use [google](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html) style docstring. This is a good format that uses minimal vertical space while retaining readability.
 
-```python
-def dumb_add(num0, num1, num2, num3, num4):
-    """[summary]
+    ```python
+    def dumb_add(num0, num1, num2, num3, num4):
+        """[summary]
 
-    Args:
-        num0 ([type]): [description]
-        num1 ([type]): [description]
-        num2 ([type]): [description]
-        num3 ([type]): [description]
-        num4 ([type]): [description]
+        Args:
+            num0 ([type]): [description]
+            num1 ([type]): [description]
+            num2 ([type]): [description]
+            num3 ([type]): [description]
+            num4 ([type]): [description]
 
-    Returns:
-        [type]: [description]
-    """
-```
+        Returns:
+            [type]: [description]
+        """
+    ```
+
+* Single line docstring.
+    ```python
+    def dumb_sub(num1, num0):
+        """Subtracting num0 from num1."""
+    ```
+* Inline comments should start with lowercase letter.
+
+    ```python
+    # going through the student list
+    for idx, student in enumerate(students_list):
+        ...
+    ```
+
+
 ## Imports
 
 * Do not use wild card import
@@ -404,8 +428,10 @@ Read more on divisional structure [here.](https://exploreflask.com/en/latest/blu
 * [Pythonic Code Review](https://access.redhat.com/blogs/766093/posts/2802001)
 * [Writing Great Code](https://www.oreilly.com/library/view/the-hitchhikers-guide/9781491933213/ch04.html)
 
-## Reference
+## References
 1. [The Most Diabolical Python Antipattern - Real Python](https://realpython.com/the-most-diabolical-python-antipattern/)
 2. [Flask Project Structure - Explore Flask](https://exploreflask.com/en/latest/blueprints.html#divisional)
 3. [Python Style Guide -Kengz](https://github.com/kengz/python)
 4. [Django Style Guide](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/)
+5. [Google Docstring Style](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html)
+6. [PEP 8 — the Style Guide for Python Code](https://pep8.org/#overriding-principle)
