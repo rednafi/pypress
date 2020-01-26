@@ -1,20 +1,19 @@
 <div align="center">
-<h1> Python Style Guide for Sanity </h1>
+<h1> Python Code Style for Sanity </h1>
 <p> <b> Simplifield Coding Directives for Lower Cognitive Overhead </b> </p>
 
 </div>
 
 <div align="center">
-<h3><u>Philosophy</u> </h3>
-<p> Simple but not simpler </p>
-<p>PEP8 but less obsessive</p>
-<p>Automation brings salvation </p>
+<h3>““““¯¯¯¯\____<b>philosophy____</b>/¯¯¯¯““““</h3>
+<p> _Simple but not Simpler_ </p>
+<p> __Practicality Beats Purity __ </p>
+<p> ___Automation Brings Salvation___ </p>
 
 </div>
 
 ## Contents
 
-* [Contents](#contents)
 * [Auto-formatters](#auto-formatters)
 * [Functions](#functions)
 * [Docstring](#docstring)
@@ -26,8 +25,8 @@
 * [Testing](#testing)
 * [Flask](#flask)
     * [Project Structure](#project-structure)
-* [Being Pythonic](#being-pythonic)
-* [Reference](#reference)
+* [The Holy Grail of Being Pythonic](#the-holy-grail-of-being-pythonic)
+* [References](#references)
 
 
 ## Auto-formatters
@@ -424,7 +423,7 @@ yourapp/
 Read more on divisional structure [here.](https://exploreflask.com/en/latest/blueprints.html#divisional)
 
 
-## Being Pythonic
+## The Holy Grail of Being Pythonic
 * [Pythonic Code Review](https://access.redhat.com/blogs/766093/posts/2802001)
 * [Writing Great Code](https://www.oreilly.com/library/view/the-hitchhikers-guide/9781491933213/ch04.html)
 
