@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<h3>““““¯¯¯¯\____<b>philosophy____</b>/¯¯¯¯““““</h3>
+<h3>````¯¯¯¯\____<b>philosophy____</b>/¯¯¯¯````</h3>
 <p> _Simple but not Simpler_ </p>
 <p> __Practicality Beats Purity __ </p>
 <p> ___Automation Brings Salvation___ </p>
@@ -332,7 +332,7 @@
     ```
 
 ## Logging
-* Instantiate your logger in your package's `__init__.py` module. See how it's done in `requests` library [here.](https://github.com/kennethreitz/requests).
+* Instantiate your logger in your package's `__init__.py` module. See how it's done in `requests` library [here.](https://github.com/kennethreitz/requests)
 
 * Define a basic logging class
 
@@ -365,7 +365,7 @@
     dumb_div(5)
     ```
 
-    Folder structure:
+    Folder structure
     ```
     packg
     ├── debug.log
