@@ -3,7 +3,7 @@
 * Use [flake8](https://github.com/PyCQA/flake8) to catch linting errors.
 * Use [isort](https://github.com/timothycrosley/isort) to sort the imports.
 
-    **=>** However, be careful while sorting imports of your flask application modules. Changing the order in flask `app/package/__init__.py` can mess up the codebase.
+    => However, be careful while sorting imports of your flask application modules. Changing the order in flask `app/package/__init__.py` can mess up the codebase.
 
     ```python
     from flask import Blueprint
@@ -13,7 +13,7 @@
     from . import views
     ```
 
-    **=>** Black is not compatible with isort. So it's better to run black after running isort.
+    => Black is not compatible with isort. So it's better to run black after running isort.
 
 
 ## Functions
