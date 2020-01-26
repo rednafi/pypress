@@ -12,12 +12,17 @@
 * [Being Pythonic](#being-pythonic)
 * [Reference](#reference)
 
+## Philosophy
+* PEP8 but less obsessive
+* Simple but opinionated
+*
+
 ## Linters
 * Use [black](https://github.com/psf/black/) with default settings (max character length 88 lines).
 * Use [flake8](https://github.com/PyCQA/flake8) to catch linting errors.
 * Use [isort](https://github.com/timothycrosley/isort) to sort the imports.
 
-    => However, be careful while sorting imports of your flask application modules. Changing the order in flask `app/package/__init__.py` can mess up the codebase.
+    => However, be careful while sorting imports of application modules. It might accidentally add circular dependencies. For example in Flask applications, changing the import order in flask `app/package/__init__.py` can mess up the codebase.
 
     ```python
     from flask import Blueprint
@@ -25,6 +30,16 @@
     package = Blueprint("package", __name__)
 
     from . import views
+    ```
+
+    To avoid this, add `# isort:skip` like this:
+
+    ```python
+    from flask import Blueprint
+
+    package = Blueprint("package", __name__)
+
+    from . import views # isort:skip
     ```
 
     => Black is not compatible with isort. So it's better to run black after running isort.
@@ -314,8 +329,6 @@
     ```
 
 
-
-
 ## Testing
 * Use [pytest](https://docs.pytest.org/en/latest/) to write your tests
 
@@ -373,3 +386,4 @@ Read more on divisional structure [here.](https://exploreflask.com/en/latest/blu
 1. [The Most Diabolical Python Antipattern - Real Python](https://realpython.com/the-most-diabolical-python-antipattern/)
 2. [Flask Project Structure - Explore Flask](https://exploreflask.com/en/latest/blueprints.html#divisional)
 3. [Python Style Guide -Kengz](https://github.com/kengz/python)
+4. [Django Style Guide](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/)
