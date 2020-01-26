@@ -74,6 +74,9 @@ yourapp/
 ```
 Read more on divisional structure [here.](https://exploreflask.com/en/latest/blueprints.html#divisional)
 
+## Being Pythonic
+* [Pythonic Code Review](https://access.redhat.com/blogs/766093/posts/2802001)
+
 
 ## Reference
 1. [The Most Diabolical Python Antipattern - Real Python](https://realpython.com/the-most-diabolical-python-antipattern/)
