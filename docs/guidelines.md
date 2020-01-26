@@ -1,3 +1,17 @@
+## Contents
+* [Linters](#linters)
+* [Functions](#functions)
+* [Imports](#imports)
+* [Whitespaces](#whitespaces)
+* [Naming Conventions](#naming-conventions)
+* [Exception Handling](#exception-handling)
+* [Logging](#logging)
+* [Testing](#testing)
+* [Flask](#flask)
+    * [Project Structure](#project-structure)
+* [Being Pythonic](#being-pythonic)
+* [Reference](#reference)
+
 ## Linters
 * Use [black](https://github.com/psf/black/) with default settings (max character length 88 lines).
 * Use [flake8](https://github.com/PyCQA/flake8) to catch linting errors.
