@@ -1,6 +1,6 @@
 <div align="center">
 <h1> Python Code Style for Sanity </h1>
-<p> <b> Simplifield Coding Directives for Lower Cognitive Overhead </b> </p>
+<p> <b> Simplifield Coding Directives for Less Cognitive Overhead </b> </p>
 
 </div>
 
