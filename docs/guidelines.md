@@ -1,6 +1,10 @@
 ## Contents
-* [Linters](#linters)
+
+* [Contents](#contents)
+* [Philosophy](#philosophy)
+* [Auto-formatters](#auto-formatters)
 * [Functions](#functions)
+* [Docstring](#docstring)
 * [Imports](#imports)
 * [Whitespaces](#whitespaces)
 * [Naming Conventions](#naming-conventions)
@@ -17,7 +21,7 @@
 * Simple but opinionated
 *
 
-## Linters
+## Auto-formatters
 * Use [black](https://github.com/psf/black/) with default settings (max character length 88 lines).
 * Use [flake8](https://github.com/PyCQA/flake8) to catch linting errors.
 * Use [isort](https://github.com/timothycrosley/isort) to sort the imports.
@@ -86,6 +90,24 @@
     point(x=1, y=0, z=3)
     ```
 
+## Docstring
+* Use [google](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html) style docstring. This is a good format that uses minimal vertical space while retaining readability.
+
+```python
+def dumb_add(num0, num1, num2, num3, num4):
+    """[summary]
+
+    Args:
+        num0 ([type]): [description]
+        num1 ([type]): [description]
+        num2 ([type]): [description]
+        num3 ([type]): [description]
+        num4 ([type]): [description]
+
+    Returns:
+        [type]: [description]
+    """
+```
 ## Imports
 
 * Do not use wild card import
