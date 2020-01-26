@@ -225,11 +225,11 @@
 
     # bad - no convention to know what data type it is
     df_raw_data = pd.DataFrame(raw_data)
-    id_dict_num = {"a": 1, "b": 2}
+    id_dct_num = {"a": 1, "b": 2}
 
     # good - convention to tell data type by the last term
     raw_data_df = pd.DataFrame(raw_data)
-    id_num_dict = {"a": 1, "b": 2}
+    id_num_dct = {"a": 1, "b": 2}
 
     # bad - meaningless names, lost context
     LIST_1 = ["Jack", "Alice", "Emily"]
