@@ -311,7 +311,7 @@
     # good
     try:
         do_something()
-    # Catch some very specific exception - KeyError, ValueError, etc.
+    # catch some very specific exception - KeyError, ValueError, etc.
     except ValueError:
         pass
     ```
@@ -337,7 +337,7 @@
 * Define a basic logging class
 
    ```python
-    # Demo of a logger in __init_.py
+    # demo of a logger in __init_.py
     import logging
 
     logging.getLogger(__name__)
