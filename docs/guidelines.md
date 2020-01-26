@@ -169,6 +169,7 @@
     for name in NAME_LIST:
         add_person(name)
     ```
+
 * Use singular or base words in naming; avoid using plural and instead append singular with the data type.
 
     ```python
@@ -246,15 +247,14 @@
     ```python
     # good
     def get_number():
-        return int('foo')
+        return int("foo")
+
     try:
         x = get_number()
-
     except ValueError:
         pass
-
     except Exception:
-        logging.exception('Caught an error', exec_info=True)
+        logging.exception("Caught an error", exec_info=True)
     ```
 
 ## Logging
@@ -283,7 +283,7 @@
         except ValueError:
             res = a // 1
         except Exception:
-            logging.exception('Exception Occured')
+            logging.exception("Exception Occured")
             res = None
 
         return res
