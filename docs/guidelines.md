@@ -428,6 +428,7 @@ Read more on divisional structure [here.](https://exploreflask.com/en/latest/blu
 ## The Holy Grail of Being Pythonic
 * [Pythonic Code Review](https://access.redhat.com/blogs/766093/posts/2802001)
 * [Writing Great Code](https://www.oreilly.com/library/view/the-hitchhikers-guide/9781491933213/ch04.html)
+* [PEP 8 — the Style Guide for Python Code](https://pep8.org/#overriding-principle)
 
 ## References
 1. [The Most Diabolical Python Antipattern - Real Python](https://realpython.com/the-most-diabolical-python-antipattern/)
@@ -435,4 +436,3 @@ Read more on divisional structure [here.](https://exploreflask.com/en/latest/blu
 3. [Python Style Guide -Kengz](https://github.com/kengz/python)
 4. [Django Style Guide](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/)
 5. [Google Docstring Style](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html)
-6. [PEP 8 — the Style Guide for Python Code](https://pep8.org/#overriding-principle)
