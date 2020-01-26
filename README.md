@@ -1,13 +1,12 @@
 
 <p align="center">
- <img src="https://i.imgur.com/rSyq3MW.png" alt="Python Odyssey"></a>
+ <img src="https://i.imgur.com/rSyq3MW.png" alt="Python Odyssey">
 </p>
 
 <h1 align="center">Python Odyssey</h1>
 <p align="center">An assortment of disperate CS concepts in Python</p>
 
-
-<h2 align="center"> Contents </h2>
+## Contents
 
 * [Blogs & Stack Overflow](/docs/blogs-and-stack-overflow.md)
 
@@ -44,3 +43,4 @@
 
 * [Books](/docs/books.md)
 * [Talks](/docs/talks.md)
+* [Guidelines](/docs/guidelines.md)
