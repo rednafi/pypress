@@ -118,6 +118,7 @@
     ```
 
 * Single line docstring.
+
     ```python
     def dumb_sub(num1, num0):
         """Subtracting num0 from num1."""
@@ -211,6 +212,7 @@
         # ...
 
     fact = ExampleDummyFactory()
+    ```
 
 * Avoid single letter names. Use descriptive and meaningful names - tell what the function does, or what data type an object is. Use description_object instead of object_description
 
@@ -283,7 +285,6 @@
     # naming as df suggests it shall be treated as a dataframe
     for idx, book in book_df.iterrow():
         add_item(book)
-
     ```
 
 
@@ -347,7 +348,10 @@
         format="%(asctime)s [%(levelname)s] %(message)s",
         handlers=[logging.FileHandler("packg/debug.log"), logging.StreamHandler()],
     )
+    ```
+
 * Import and use it like this
+
     ```python
     # using predefined logging in mod.py
     from . import logging
@@ -367,6 +371,7 @@
     ```
 
     Folder structure
+
     ```
     # folder structure of the package
     packg
@@ -422,6 +427,7 @@ yourapp/
         templates/
     models.py
 ```
+
 Read more on divisional structure [here.](https://exploreflask.com/en/latest/blueprints.html#divisional)
 
 
