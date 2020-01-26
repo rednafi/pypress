@@ -99,7 +99,7 @@
     ```
 
 ## Docstring
-* Use [google](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html) style docstring. This is a good format that uses minimal vertical space while retaining readability.
+* Use [google](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html) style docstring. This is a good format that uses minimal vertical space while retaining maximum readability.
 
     ```python
     def dumb_add(num0, num1, num2, num3, num4):
@@ -349,6 +349,7 @@
     )
 * Import and use it like this
     ```python
+    # using predefined logging in mod.py
     from . import logging
 
     def dumb_div(a):
@@ -367,6 +368,7 @@
 
     Folder structure
     ```
+    # folder structure of the package
     packg
     ├── debug.log
     ├── __init__.py
@@ -384,7 +386,7 @@
 * Use direct assertations and explicit comparisons; avoid negations.
 
     ```python
-    # bad - Other values can be falsy too: `[], 0, '', None`
+    # bad - other values can be falsy too: `[], 0, '', None`
     assert not result
     assert result_list
 
