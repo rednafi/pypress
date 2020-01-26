@@ -207,7 +207,7 @@
 
     # naming as df suggests it shall be treated as a dataframe
     for idx, book in book_df.iterrow():
-        register_item(book)
+        add_item(book)
 
     ```
 
@@ -289,6 +289,14 @@
         return res
 
     dumb_div(5)
+    ```
+
+    Folder structure:
+    ```
+    packg
+    ├── debug.log
+    ├── __init__.py
+    └── mod.py
     ```
 
 
