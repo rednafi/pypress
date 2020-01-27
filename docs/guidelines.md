@@ -99,21 +99,29 @@
     ```
 
 ## Docstring
-* Use [google](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html) style docstring. This is a good format that uses minimal vertical space while retaining maximum readability.
+* Use [numpy](https://numpydoc.readthedocs.io/en/latest/format.html#docstring-standard) style docstring. This is a good format that uses extra vertical space for maximum readability.
 
     ```python
     def dumb_add(num0, num1, num2, num3, num4):
         """[summary]
 
-        Args:
-            num0 ([type]): [description]
-            num1 ([type]): [description]
-            num2 ([type]): [description]
-            num3 ([type]): [description]
-            num4 ([type]): [description]
+        Parameters
+        ----------
+        num0 : [type]
+            [description]
+        num1 : [type]
+            [description]
+        num2 : [type]
+            [description]
+        num3 : [type]
+            [description]
+        num4 : [type]
+            [description]
 
-        Returns:
-            [type]: [description]
+        Returns
+        -------
+        [type]
+            [description]
         """
     ```
 
@@ -214,7 +222,8 @@
     fact = ExampleDummyFactory()
     ```
 
-* Avoid single letter names. Use descriptive and meaningful names - tell what the function does, or what data type an object is. Use description_object instead of object_description
+* Avoid single letter names. Use descriptive and meaningful names - tell what the function does,
+or what data type an object is. Use description_object instead of object_description
 
     ```python
     # bad
