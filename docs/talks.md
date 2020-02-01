@@ -39,3 +39,4 @@
 * [Inside the Cheeseshop: How Python Packaging Works - Dustin Ingram](https://www.youtube.com/watch?v=AQsZsgJ30AE&list=PLoXPRjUJ-QRLoCU3xIxgezoTH8pgBTnXi&index=7&t=0s)
 
 * [Python Kubernetes - Kelsey Hightower](https://www.youtube.com/watch?v=u_iAXzy3xBA&list=PLoXPRjUJ-QRLoCU3xIxgezoTH8pgBTnXi&index=8&t=0s)
+* [Python's Class Development Toolkit - Raymond Hettinger](https://youtu.be/HTLu2DFOdTg)
