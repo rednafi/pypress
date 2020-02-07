@@ -49,7 +49,7 @@
 * [Object-Oriented Programming \(OOP\) in Python 3](https://realpython.com/python3-object-oriented-programming/)
 * [Supercharge Your Classes With Python super\(\)](https://realpython.com/python-super/)
 * [Inheritance and Composition: A Python OOP Guide](https://realpython.com/inheritance-composition-python/)
-* [Why use @classmethod decorator](https://stackoverflow.com/a/47769405/8963300)
+* [Why use @classmethod decorator](https://stackoverflow.com/a/14605349/8963300)
 * [How python @property decorator works](https://www.machinelearningplus.com/python/python-property/amp/)
 * [Discussions on Dataclass - Stack Overflow](https://stackoverflow.com/questions/47955263/what-are-data-classes-and-how-are-they-different-from-common-classes)
 * [The definitive guide on how to use static, class or abstract methods in Python - Julien Danjou](https://julien.danjou.info/guide-python-static-class-abstract-methods/)
