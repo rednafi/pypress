@@ -76,6 +76,7 @@
 ## Patterns
 
 * [Python Patterns - Brandon Rhodes](https://python-patterns.guide/)
+* [Design Patterns Examples](https://refactoring.guru/design-patterns/python)
 * [The Most Diabolical Python Antipattern - Real Python](https://realpython.com/the-most-diabolical-python-antipattern/)
 
 ## Internals
