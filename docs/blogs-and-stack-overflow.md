@@ -56,9 +56,9 @@
 * [Python Descriptors: An Introduction -Real Python](https://realpython.com/python-descriptors/)
 * [Operator and Function Overloading in Custom Python Classes - Real Python](https://realpython.com/operator-function-overloading/)
 * [Python Class Mixin](https://stackoverflow.com/questions/533631/what-is-a-mixin-and-why-are-they-useful)
-
+* [Interfaces in Python - Real Python](https://docs.python.org/3/library/threading.html)
 ## FP
-* [Monads in Python ](https://nikgrozev.com/2013/12/10/monads-in-15-minutes/)
+* [Monads in Python](https://nikgrozev.com/2013/12/10/monads-in-15-minutes/)
 
 ## Databases
 
