@@ -1,0 +1,6 @@
+site_name: Typhon
+theme:
+  name: 'material'
+  palette:
+    primary: 'brown'
+    accent: 'brown'
