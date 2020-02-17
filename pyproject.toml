@@ -9,6 +9,7 @@ license = "MIT"
 python = "^3.7"
 mkdocs = "^1.0.4"
 mkdocs-material = "^4.6.3"
+rush-cli = "^0.5.7"
 
 [tool.poetry.dev-dependencies]
 
