@@ -1,20 +1,20 @@
 site_name: Typhon
 theme:
-  name: 'material'
+  name: "material"
   palette:
-    primary: 'brown'
-    accent: 'brown'
+    primary: "brown"
+    accent: "brown"
   sidebar:
-    position: 'left'
+    position: "left"
 
 extra:
   social:
-    - type: 'github'
-      link: 'https://github.com/rednafi'
-    - type: 'twitter'
-      link: 'https://twitter.com/rednafi'
-    - type: 'linkedin'
-      link: 'https://www.linkedin.com/in/redowan'
+    - type: "github"
+      link: "https://github.com/rednafi"
+    - type: "twitter"
+      link: "https://twitter.com/rednafi"
+    - type: "linkedin"
+      link: "https://www.linkedin.com/in/redowan"
 
 markdown_extensions:
   - admonition
