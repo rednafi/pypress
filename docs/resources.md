@@ -101,8 +101,7 @@
 
 * [Python Tricks - Dan Bader](https://www.goodreads.com/en/book/show/36555966)
 * [Grokking Algorithms - Aditya Bhargava](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio)
-
-
+* [Essential Sqlalchemy - Rick Copeland](http://shop.oreilly.com/product/0636920035800.do)
 ## Talks
 
 * [How documentation works - Daniele Procida](https://youtu.be/azf6yzuJt54)
