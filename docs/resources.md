@@ -62,6 +62,7 @@
 
 ### FP
 * [Monads in Python](https://nikgrozev.com/2013/12/10/monads-in-15-minutes/)
+* [Single Dispatch](https://amontalenti.com/2013/10/20/singledispatch)
 
 ### Databases
 
