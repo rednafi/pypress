@@ -63,6 +63,7 @@
 ### FP
 * [Monads in Python](https://nikgrozev.com/2013/12/10/monads-in-15-minutes/)
 * [Single Dispatch](https://amontalenti.com/2013/10/20/singledispatch)
+* [Single Dispatch with Custom Classes: Avoiding if-process-else-process](https://gist.github.com/rednafi/acc53c00af67340bdaf2e09d9290f548)
 
 ### Databases
 
