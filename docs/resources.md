@@ -74,9 +74,10 @@
 * [Exploring HTTPS With Python - Real Python](https://realpython.com/python-https/)
 
 
-### Async
+### Concurrency
 
 * [Async IO in Python: A Complete Walkthrough - Real Python](https://realpython.com/async-io-python/)
+
 
 ### Patterns
 
@@ -87,6 +88,9 @@
 ### Internals
 
 * [Understanding Python's Execution Model - Jeff Knupp](https://jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/)
+
+### Testing
+* [Effective Python Testing With Pytest](https://realpython.com/pytest-python-testing/)
 
 
 ### Misc
