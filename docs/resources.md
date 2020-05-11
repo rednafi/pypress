@@ -60,10 +60,10 @@
 * [Python Class Mixin](https://stackoverflow.com/questions/533631/what-is-a-mixin-and-why-are-they-useful)
 * [Interfaces in Python - Real Python](https://docs.python.org/3/library/threading.html)
 * [Dynamically create class](https://www.tutorialdocs.com/article/python-class-dynamically.html)
-### FP
+
+### Functional Programming
 * [Monads in Python](https://nikgrozev.com/2013/12/10/monads-in-15-minutes/)
-* [Single Dispatch](https://amontalenti.com/2013/10/20/singledispatch)
-* [Single Dispatch with Custom Classes: Avoiding if-process-else-process](https://gist.github.com/rednafi/acc53c00af67340bdaf2e09d9290f548)
+* [Generic Functions with Python's Single Dispatch](https://rednafi.github.io/digressions/python/2020/04/05/python-singledispatch.html)
 
 ### Databases
 
