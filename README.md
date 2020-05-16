@@ -97,6 +97,7 @@
 
 * [With Statement & Context Managers - Jeff Knupp](https://jeffknupp.com/blog/2016/03/07/improve-your-python-the-with-statement-and-context-managers/)
 * [Python Command Line Arguments - Real Python](https://realpython.com/python-command-line-arguments/)
+* [Using Python datetime to Work With Dates and Times - Real Python](https://realpython.com/python-datetime/)
 
 ### Quirks
 
