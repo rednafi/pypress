@@ -104,6 +104,9 @@
 * [The seemingly weird behavior of python's import](http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html)
 * [Traps for the Unwary in Python’s Import System - Nick Coghlan's Python Notes](http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html#the-double-import-trap)
 
+### Data
+* [First Steps With PySpark and Big Data Processing](https://realpython.com/pyspark-intro/)
+
 ## Books
 
 * [Python Tricks - Dan Bader](https://www.goodreads.com/en/book/show/36555966)
