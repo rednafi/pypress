@@ -99,6 +99,9 @@
 * [Python Command Line Arguments - Real Python](https://realpython.com/python-command-line-arguments/)
 * [Using Python datetime to Work With Dates and Times - Real Python](https://realpython.com/python-datetime/)
 
+### Tangential
+[My favorite algorithm (and data structure): HyperLogLog](https://odino.org/my-favorite-data-structure-hyperloglog/)
+
 ### Quirks
 
 * [The seemingly weird behavior of python's import](http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html)
