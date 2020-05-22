@@ -60,6 +60,7 @@
 * [Python Class Mixin](https://stackoverflow.com/questions/533631/what-is-a-mixin-and-why-are-they-useful)
 * [Interfaces in Python - Real Python](https://docs.python.org/3/library/threading.html)
 * [Dynamically create class](https://www.tutorialdocs.com/article/python-class-dynamically.html)
+* [Data Descriptors: Bringing Attributes to the Next Level](https://pythonforthelab.com/blog/data-descriptors-bringing-attributes-next-level/)
 
 ### Functional Programming
 * [Monads in Python](https://nikgrozev.com/2013/12/10/monads-in-15-minutes/)
