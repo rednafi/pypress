@@ -73,10 +73,11 @@
 
 ### Web
 * [Exploring HTTPS With Python - Real Python](https://realpython.com/python-https/)
-
+* [Configuring Your Flask Application](https://hackingandslacking.com/configuring-your-flask-application-4e5341d7affb)
 
 ### Concurrency
 
+* [Effortless Concurrency with Python's concurrent.futures](https://rednafi.github.io/digressions/python/2020/04/21/python-concurrent-futures.html)
 * [Async IO in Python: A Complete Walkthrough - Real Python](https://realpython.com/async-io-python/)
 
 
